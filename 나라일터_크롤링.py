@@ -56,13 +56,13 @@ time.sleep(3)
 
 ID = driver.find_element(By.ID, "usid")
 
-ID.send_keys("실제 내 아이디 ")   # 내 실제아이디 치기
+ID.send_keys("wogh5252")   # 내 실제아이디 치기
 
 
 
 PW = driver.find_element(By.ID, "password")
 
-PW.send_keys("실제 내 비번")   #내 실제 비번 치기 
+PW.send_keys("2335513a#$")   #내 실제 비번 치기 
 
 
 
